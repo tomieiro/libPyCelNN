@@ -334,6 +334,9 @@ See [docs/examples.md](examples.md) and the `examples/` directory for:
 - custom activations,
 - template registry usage.
 
+For a step-by-step guide on creating new templates for new tasks, see
+[docs/template-creation-guide.md](template-creation-guide.md).
+
 ## FAQ
 
 ### Does this package implement Convolutional Neural Networks?

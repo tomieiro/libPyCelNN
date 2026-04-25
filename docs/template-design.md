@@ -1,5 +1,10 @@
 # Template design guide
 
+For a task-oriented workflow that explains how to build a new template,
+how to choose `bias`, `dt`, activation, and `boundary`, and how to tune
+them for a specific problem, see
+[template-creation-guide.md](template-creation-guide.md).
+
 ## What templates are
 
 A template is a local stencil of coefficients that tells each cell how to combine:

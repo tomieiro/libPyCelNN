@@ -48,6 +48,7 @@ print(result.output.shape)
 * [Examples](docs/examples.md)
 * [Mathematical model](docs/mathematical-model.md)
 * [Template design guide](docs/template-design.md)
+* [Template creation guide](docs/template-creation-guide.md)
 * [Migration from PyCNN](docs/migration-from-pycnn.md)
 
 ## Features
